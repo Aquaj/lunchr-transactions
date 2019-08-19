@@ -1,9 +1,1 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  company_name: MyString
-  amount_cents: 1
-
-two:
-  company_name: MyString
-  amount_cents: 1
